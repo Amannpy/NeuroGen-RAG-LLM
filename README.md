@@ -1,3 +1,3 @@
 # PromptEngineering
 
-learning Prompt engineering
+learning Prompt engineering - NeuroGen
